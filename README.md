@@ -15,7 +15,7 @@ My interests include **AI engineering, machine learning systems, software develo
 
 | Project | Focus |
 | --- | --- |
-| **EvidenceLens** *(in development)* | Evidence-grounded document question answering, retrieval, and source citations. |
+| **[EvidenceLens](https://github.com/AvneepSingh/EvidenceLens)** | Evidence-grounded document question answering, retrieval, and source citations. |
 | **[Resume Screening](https://github.com/AvneepSingh/resume-screening)** | Machine learning approach to identifying relevant resumes. |
 | **[Win–Mac](https://github.com/AvneepSingh/win-mac)** | Command-line tool for transferring files between macOS and Windows. |
 
